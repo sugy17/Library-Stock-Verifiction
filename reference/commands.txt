@@ -1,0 +1,4 @@
+node app.js
+sudo mysql -u admin -p Employee < Employee.sql
+
+S$192118110s
